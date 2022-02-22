@@ -1,0 +1,31 @@
+* {
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.container {
+  width: 30%;
+  margin-top: 15%;
+
+}
+
+.inputi {
+  margin-top: 5%;
+}
+
+.form-check {
+  margin-top: 2%;
+}
+
+.btn {
+  margin-top: 5%;
+  
+}
+
+.footer {
+  margin-top: 45%;
+  text-align: center;
+  background-color: grey;
+}
